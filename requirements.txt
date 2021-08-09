@@ -1,0 +1,9 @@
+ffmpeg
+opencv-python==4.5.1.48
+opencv-contrib-python
+tqdm
+matplotlib
+torch
+torchvision
+## torchaudio -f https://download.pytorch.org/whl/torch_stable.html
+pycocotools
